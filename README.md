@@ -12,4 +12,15 @@ Technical Android Json
   <img src="https://github.com/danisluis6/Technical-Android-Json/blob/version1/version1/1.png">
 </p>
 
-    * STEP TWO:
+    * STEP TWO: From above image and you need analysis the difference between [ and { 
+    - "[" concert with "JSONArray".
+    - "{" concert with "JSONObject".
+
+<p align="center">
+  <img src="https://github.com/danisluis6/Technical-Android-Json/blob/version1/version1/2.png">
+</p>
+
+    * STEP THREE: Let's start practise with json and forget about knowledge.
+#why ? => After practise and you remember deep about it.
+
+
