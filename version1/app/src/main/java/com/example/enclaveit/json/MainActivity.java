@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        /** Copy menu of Popup Menu and Insert **/
         getMenuInflater().inflate(R.menu.toolbar_menu, menu);
         return true;
     }
